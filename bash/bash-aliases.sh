@@ -1,8 +1,5 @@
 # bash aliases and simple functions
 
-
-alias sshapollo='ssh -Y spfeife@bglab-apollo.me.iastate.edu'
-
 # more ls
 alias ll="ls -lhAF"
 alias la='ls -A'
